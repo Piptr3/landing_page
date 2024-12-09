@@ -11,18 +11,6 @@ body {
     justify-content: space-between;
 }
 
-.main-panel,
-.quote-panel,
-.info-panel,
-.bottom-panel {
-    height: 20%;
-}
-
-.header,
-.footer {
-    height: 10%
-}
-
 .header {
     display: flex;
     justify-content: space-around;
