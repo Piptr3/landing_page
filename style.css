@@ -172,6 +172,7 @@ a,
 .bottom-panel {
     display: flex;
     justify-content: center;
+    margin: 40px 0;
 }
 
 .bottom-panel .container {
@@ -185,4 +186,15 @@ a,
 .bottom-panel .btn {
     border: white solid;
     height: 36px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.copyright {
+    padding: 16px;
 }
