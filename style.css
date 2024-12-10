@@ -158,3 +158,31 @@ a,
     margin: 0;
     font-weight: bold;
 }
+
+.btn {
+    margin-top: 10px;
+    background-color: #3882F6;
+    padding: 8px 32px;
+    border-radius: 10%;
+    border: #3882F6;
+    color: white;
+    font-weight: bold;
+}
+
+.bottom-panel {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-panel .container {
+    background-color: #3882F6;
+    padding: 32px 64px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.bottom-panel .btn {
+    border: white solid;
+    height: 36px;
+}
